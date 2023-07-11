@@ -1,5 +1,5 @@
 
-# 2022 California SWRCB Openscapes Champions Cohort
+# 2023 California SWRCB Openscapes Champions Cohort
 
 Welcome to the 2023 California SWRCB Openscapes Champions Cohort! This is a Cohort for the California State Water Resources Control Board ([SWRCB](https://www.waterboards.ca.gov/), "Water Boards"), with staff participation from the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) and the Division of Water Quality ([DWQ](https://www.waterboards.ca.gov/water_issues/programs/water_quality/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>.  
 
