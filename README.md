@@ -1,3 +1,4 @@
+<a align="left" href="https://github.com/openscapes/2023-swrcb/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
 # 2023 California SWRCB Openscapes Champions Cohort
 
