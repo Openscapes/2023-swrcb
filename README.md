@@ -32,8 +32,6 @@ These are the teams participating: please edit this repo yourself following our 
 
 ## Openscapes team
 
-[**Corey Clatterbuck**](https://www.coreyclatterbuck.com/), Environmental Scientist at the SWRCB's Office of Information Management and Analysis
-
 **Anna Holder**, Environmental Scientist & Tribal Coordinator at the SWRCB's Office of Information Management and Analysis
 
 **Devan Burke**, Associate Governmental Program Analyst, OIMA 
