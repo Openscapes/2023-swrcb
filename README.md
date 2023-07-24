@@ -1,8 +1,8 @@
 <a align="left" href="https://github.com/openscapes/2023-swrcb/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"></a>
 
-# 2023 California SWRCB Openscapes Champions Cohort
+# 2023 California Water Boards Openscapes Champions Cohort
 
-Welcome to the 2023 California SWRCB Openscapes Champions Cohort! This is a Cohort for the California State Water Resources Control Board ([SWRCB](https://www.waterboards.ca.gov/), "Water Boards"), with staff participation from the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) and the Division of Water Quality ([DWQ](https://www.waterboards.ca.gov/water_issues/programs/water_quality/)). Learn more about Openscapes and the Champions Program: <https://openscapes.org>.  
+Welcome to the 2023 California Water Boards Openscapes Champions Cohort! This is a Cohort for the California State and Regional Water Boards ([SWRCB](https://www.waterboards.ca.gov/), "Water Boards"), with staff participation from the Office of Information Management and Analysis ([OIMA](https://www.waterboards.ca.gov/resources/oima/)) and the Division of Water Quality ([DWQ](https://www.waterboards.ca.gov/water_issues/programs/water_quality/)). Learn more about Openscapes at the Water Boards: <https://cawaterboarddatacenter.github.io/swrcb-openscapes/>.  
 
 <img align="right" src="horst-champions-trailhead.png" width="450"> 
 
