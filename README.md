@@ -11,7 +11,7 @@ Welcome to the 2023 California Water Boards Openscapes Champions Cohort! This is
 We will meet as a Cohort via Zoom five times over two months for 2 hours, on alternating Wednesdays in August, September, and October 2023. 
 
 - **Dates: August 16 & 30, September 13 & 27, October 11**
-- **Times: 9:30-11:30pm PT**
+- **Times: 9:30-11:30am PT**
 - **Location: Remotely, via Microsoft Teams**
 
 Agenda links below are only accessible to Cohort participants (*coming soon!*), as they are also an archive of our live google-docing. Please see <https://openscapes.org/series> for more detail and to view blank versions of the agendas.
