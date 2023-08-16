@@ -30,12 +30,12 @@ The Water Boards has a GitHub [organization](https://github.com/CAWaterBoardData
 
 These are the teams participating: please edit this repo to add your name next to your team following our GitHub Clinics! (*to come*)
 
+-   **Conservation Data Squad**:
 -   **Data for Equity**:
 -   **RegDev Web Wizards**:
 -   **ReLEPtrons**:
 -   **Waterbears**:
 -   **Water Data Detectives**:
--   **[TBD]**:
 
 ## Openscapes team
 
