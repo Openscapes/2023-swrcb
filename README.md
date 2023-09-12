@@ -49,7 +49,7 @@ These are the teams participating: please edit this repo to add your name next t
 
 -   Call 1: [Julia Stewart Lowndes](https://openscapes.org/team.html) (Openscapes) - [Better Science for Future Us](https://docs.google.com/presentation/d/1R8BUegaYBw9vak0rq5GKvjwJiE6efAFWYbmYbdVfC_Y/edit?usp=sharing)
 
--   Call 3: Corey Clatterbuck (California Coastal Commission) - [Documentation](https://docs.google.com/presentation/d/1CSet5VUaXMF48dLPlT3n1OpJ4Iat0LAIKEdTGqIqaDk/edit?usp=sharing)
+-   Call 3: [Corey Clatterbuck](https://www.coreyclatterbuck.com/) (California Coastal Commission) - [Documentation](https://docs.google.com/presentation/d/1CSet5VUaXMF48dLPlT3n1OpJ4Iat0LAIKEdTGqIqaDk/edit?usp=sharing)
 
 -   Call 4: [Emily Markowitz](https://www.fisheries.noaa.gov/contact/emily-markowitz) (NOAA Fisheries) - Data Strategies for Future Us
 
