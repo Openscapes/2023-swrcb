@@ -39,7 +39,7 @@ These are the teams participating: please edit this repo to add your name next t
 
 ## Openscapes Instruction Team
 
--   **Anna Holder**, Environmental Scientist & Tribal Coordinator at the SWRCB's Office of Information Management and Analysis
+-   **Anna Holder**, Environmental Scientist & Tribal Coordinator, OIMA
 
 -   **Devan Burke**, Associate Governmental Program Analyst, OIMA
 
