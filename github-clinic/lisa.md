@@ -8,6 +8,8 @@ Let's edit this file by clicking the pencil icon at the top-right of the file.
 
 Next, make and edit to the text in this file. One idea is to fix this tpyo. 
 
+Let's find a way to change "BLAME" to something less mean-spirited.
+
 Finally, we will commit these edits to GitHub. To do this, scroll down to the bottom of this webpage to where it says "Commit Changes". Committing changes has two steps: write a human-readable commit message, and press the green button to commit changes. 
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
