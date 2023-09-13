@@ -46,3 +46,7 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ### Task 2 Practice: Using Markdown
 
 *Who knew that using Reddit would come in handy at work?* **Although I guess I've also used it in Rmarkdown documents.** Can't seem to figure out how to do underline, so I guess that's not a thing.
+
+[Oh look, a link.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
