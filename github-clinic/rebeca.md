@@ -32,9 +32,9 @@ We can make lists – *note that lists need a carriage return before list items!
 
 **Song From Each Band**
 
-1. [Lost] (https://youtu.be/xv-70a6yXfM?si=ajD5FSLHjUhN6W-i)
-2. [Bown Down] (https://youtu.be/n2EjeMx4bSg?si=6LbJvAHsKJjZVEwW)
-3. [Dethrone] (https://youtu.be/h31THl8shy4?si=PL5nvp279ioxXbw7)
+1. [Lost](https://youtu.be/xv-70a6yXfM?si=ajD5FSLHjUhN6W-i)
+2. [Bown Down](https://youtu.be/n2EjeMx4bSg?si=6LbJvAHsKJjZVEwW)
+3. [Dethrone](https://youtu.be/h31THl8shy4?si=PL5nvp279ioxXbw7)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
