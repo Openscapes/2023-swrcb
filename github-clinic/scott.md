@@ -39,6 +39,8 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 
 ![](../horst-champions-trailhead.png)
 
+![](https://www.memecreator.org/static/images/memes/4905215.jpg)
+
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
