@@ -12,6 +12,10 @@ Finally, we will commit these edits to GitHub. To do this, scroll down to the bo
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
+Tomatillo salsa is the best. 
+
+What movie is this quote from? "Shampoo is better is cleans the hair.  NOO! Conditioner is better it makes the hair silky and smooth"
+
 ## Task 2: Practice Markdown 
 
 Now let's practice Markdown and commit another edit to this file. 
