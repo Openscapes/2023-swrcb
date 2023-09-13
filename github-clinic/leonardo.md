@@ -42,3 +42,12 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+#### Leonardo Lugo
+
+1. Sports fanatic
+2. Kind of a gamer
+3. Loves movies
+
+[Markdown].(https://waternet.waterboards.ca.gov/)
+
+![]![superman animated series](https://github.com/Openscapes/2023-swrcb/assets/140422835/a4cee68e-58a8-46e3-97a3-46acaae9b08f)
