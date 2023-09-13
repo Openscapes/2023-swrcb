@@ -42,3 +42,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
+
+### Task 2 Practice: Using Markdown
+
+*Who knew that using Reddit would come in handy at work?* **Although I guess I've also used it in Rmarkdown documents.** Can't seem to figure out how to do underline, so I guess that's not a thing.
