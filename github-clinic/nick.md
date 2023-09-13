@@ -14,7 +14,7 @@ Note: In the browser, GitHub will suggest "Update file.md" as the commit message
 
 Tomatillo salsa is the best. 
 
-What movie is this quote from? "Shampoo is better is cleans the hair.  NOO! Conditioner is better it makes the hair silky and smooth"
+*What movie is this quote from? "Shampoo is better is cleans the hair.  NOO! Conditioner is better it makes the hair silky and smooth"*
 
 ## Task 2: Practice Markdown 
 
@@ -31,6 +31,8 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. **tamales**
 3. cakes
+4. *gluten free pizza dough recipe* [Gluten-free Sicilian Pizza Dough — Ooni USA.pdf](https://github.com/Openscapes/2023-swrcb/files/12600270/Gluten-free.Sicilian.Pizza.Dough.Ooni.USA.pdf)
+
 
 ![soul crushing meeting](https://github.com/Openscapes/2023-swrcb/assets/37669928/51848e87-b6fd-4601-b0e9-a236621d47d7)
 
