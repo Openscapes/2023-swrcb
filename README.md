@@ -35,7 +35,7 @@ These are the teams participating: please edit this repo to add your name next t
 -   **RegDev Web Wizards**:
 -   **ReLEPtrons**:
 -   **Waterbears**:
--   **Water Data Detectives**: Leann Castle
+-   **Water Data Detectives**: Leann Castle, Naeem Ahmad
 
 ## Openscapes Instruction Team
 
