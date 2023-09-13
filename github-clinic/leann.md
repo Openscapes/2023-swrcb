@@ -24,9 +24,11 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need a carriage return before list items!*
 
-1. bananas
-2. tamales
-3. cakes
+1. **Cypher Pt.3**
+2. So What
+3. *Outro: Ego*
+
+> [BTS FTW] (https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fbtsarmy%2Fpage%2Fblog%2Fbts-with-crowns%2FV0bQ_g0Vf7u5lGGDBBgMR1xm5Q5qLLEVBkg&psig=AOvVaw2fxJRxvH58devYOk7wmLrR&ust=1694711698161000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCglpiLqIEDFQAAAAAdAAAAABAE) shows modern day royalty.
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
