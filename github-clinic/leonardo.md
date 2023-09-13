@@ -51,4 +51,4 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 
 [Markdown](https://waternet.waterboards.ca.gov/)
 
-[]![superman animated series](https://github.com/Openscapes/2023-swrcb/assets/140422835/a4cee68e-58a8-46e3-97a3-46acaae9b08f)
+![superman animated series](https://github.com/Openscapes/2023-swrcb/assets/140422835/a4cee68e-58a8-46e3-97a3-46acaae9b08f)
