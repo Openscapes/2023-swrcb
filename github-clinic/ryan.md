@@ -43,5 +43,7 @@ We can include an image with the same `[]()` pattern, but note the preceding exc
 ![](../horst-champions-trailhead.png)
 
 *Note that this image lives in the folder one level above our `github-clinic` folder, and we indicate that with the two periods `..`* 
+[Test Document.docx](https://github.com/Openscapes/2023-swrcb/files/12600271/Test.Document.docx)
+
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
