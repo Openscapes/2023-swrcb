@@ -29,8 +29,10 @@ We can make words **bold** or *italic*.
 We can make lists – *note that lists need a carriage return before list items!*
 
 1. bananas
-2. tamales
+2. **tamales**
 3. cakes
+
+![soul crushing meeting](https://github.com/Openscapes/2023-swrcb/assets/37669928/51848e87-b6fd-4601-b0e9-a236621d47d7)
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
