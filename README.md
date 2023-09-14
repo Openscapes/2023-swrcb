@@ -34,7 +34,7 @@ These are the teams participating: please edit this repo to add your name next t
 -   **Data for Equity**:
 -   **RegDev Web Wizards**:
 -   **ReLEPtrons**:
--   **Waterbears**:
+-   **Waterbears**: Alisha Wenzel, Leonardo Lugo, Ryan Brown, Yared Kebede
 -   **Water Data Detectives**: Leann Castle, Naeem Ahmad, Mike D'Anna, Rassam Zarghami
 
 ## Openscapes Instruction Team
