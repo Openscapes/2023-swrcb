@@ -35,7 +35,7 @@ These are the teams participating: please edit this repo to add your name next t
 -   **RegDev Web Wizards**:
 -   **ReLEPtrons**:
 -   **Waterbears**: Alisha Wenzel, Leonardo Lugo, Ryan Brown, Yared Kebede
--   **Water Data Detectives**: Leann Castle, Naeem Ahmad, Mike D'Anna, Rassam Zarghami
+-   **Water Data Detectives**: Leann Castle, Naeem Ahmad, Mike D'Anna, Rassam Zarghami, Bethany Robinson
 
 ## Openscapes Instruction Team
 
